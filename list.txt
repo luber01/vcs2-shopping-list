@@ -1,3 +1,4 @@
+cola
 eis
 baguette
 toast
@@ -8,7 +9,7 @@ bananen
 orangen
 kekse
 bier
-leberkaaas!!!
+leberkas
 chips
 wurst
 kaese
